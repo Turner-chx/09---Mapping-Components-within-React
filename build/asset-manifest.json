@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Turner-chx/09---Mapping-Components-within-React/static/css/main.179c0df0.css",
+    "main.js": "/Turner-chx/09---Mapping-Components-within-React/static/js/main.467e74cd.js",
+    "index.html": "/Turner-chx/09---Mapping-Components-within-React/index.html",
+    "main.179c0df0.css.map": "/Turner-chx/09---Mapping-Components-within-React/static/css/main.179c0df0.css.map",
+    "main.467e74cd.js.map": "/Turner-chx/09---Mapping-Components-within-React/static/js/main.467e74cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.179c0df0.css",
+    "static/js/main.467e74cd.js"
+  ]
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.179c0df0.css","mappings":"AAAA,KACE,0BAA2B,CAG3B,gBAAiB,CAFjB,aAAc,CACd,WAEF,CACA,GACE,iBACF","sources":["style.css"],"sourcesContent":["body {\n  background-color: '#F6F6F6';\n  margin: 0 auto;\n  width: 300px;\n  font-family: Lato;\n}\nh1 {\n  text-align: center;\n}\n"],"names":[],"sourceRoot":""}
